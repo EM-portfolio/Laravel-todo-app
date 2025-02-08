@@ -1,6 +1,6 @@
 
 ## Portfolio Laravel
-ポートフォリオ：美容室予約管理システム
+ポートフォリオ：laravelのToDoApp
 
 <p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
